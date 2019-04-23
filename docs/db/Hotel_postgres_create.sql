@@ -17,7 +17,6 @@ CREATE TABLE "room" (
 );
 
 
-
 CREATE TABLE "photo_link" (
 	"id" serial NOT NULL,
 	"room_id" integer NOT NULL,
